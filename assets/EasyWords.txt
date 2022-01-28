@@ -1,0 +1,11 @@
+apple n.苹果
+banana n.香蕉
+teacher n.老师
+student n.学生
+worker n.工人
+search vt.搜索
+window n.窗户
+lovely a.可爱的
+interesting a.有趣的
+funny a.搞笑的
+happy a.开心的
